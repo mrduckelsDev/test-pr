@@ -11,4 +11,9 @@ class hello {
     {
         echo "yo";
     }
+
+    public function myChange()
+    {
+        $accept_it = 'yes';
+    }
 }
