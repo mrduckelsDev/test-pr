@@ -20,5 +20,6 @@ class hello {
     public function myChangeDangerous()
     {
         $accept_it = 'no?';
+        $nowDoItForReal = '';
     }
 }
