@@ -16,4 +16,9 @@ class hello {
     {
         $accept_it = 'yes';
     }
+
+    public function myChangeDangerous()
+    {
+        $accept_it = 'no?';
+    }
 }
